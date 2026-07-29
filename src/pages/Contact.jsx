@@ -25,7 +25,7 @@ const contactInfo = [
 ]
 
 const socials = [
-  { icon: Github, label: 'GitHub', href: 'https://github.com/MANOJ' },
+  { icon: Github, label: 'GitHub', href: 'https://github.com/manojkaruppasamy241205-lang' },
   { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com/in/MANOJ' },
 ]
 

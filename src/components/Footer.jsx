@@ -34,7 +34,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Connect</h4>
             <div className="flex gap-3">
-              <a href="https://github.com/MANOJ" target="_blank" rel="noopener noreferrer"
+              <a href="https://github.com/manojkaruppasamy241205-lang" target="_blank" rel="noopener noreferrer"
                  className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center hover:bg-primary-500/20 hover:border-primary-500/30 transition-all">
                 <Github className="w-5 h-5" />
               </a>

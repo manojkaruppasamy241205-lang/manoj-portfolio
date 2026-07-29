@@ -8,7 +8,7 @@ const projects = [
     title: 'TripGo – Travel Planning Application',
     description: 'Developed a web-based trip planning platform that helps users organize travel plans and manage itineraries efficiently. Built responsive interfaces and implemented core trip management features using modern web technologies.',
     tech: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
-    github: 'https://github.com/MANOJ',
+    github: 'https://github.com/manojkaruppasamy241205-lang',
     link: null,
   },
 ]
